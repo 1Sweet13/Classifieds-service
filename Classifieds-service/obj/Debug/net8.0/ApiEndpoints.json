@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "Classifieds_service.Controllers.AdServiceControlller",
+    "Method": "GetLocations",
+    "RelativePath": "locations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "region",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Classifieds_service.Controllers.AdServiceControlller",
+    "Method": "UploadFile",
+    "RelativePath": "locations/upload",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

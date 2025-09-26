@@ -1,0 +1,8 @@
+C:\Users\Кирилл\source\repos\Classifieds-service\Classifieds-service\obj\Debug\net6.0\Classifieds-API.csproj.AssemblyReference.cache
+C:\Users\Кирилл\source\repos\Classifieds-service\Classifieds-service\obj\Debug\net6.0\rpswa.dswa.cache.json
+C:\Users\Кирилл\source\repos\Classifieds-service\Classifieds-service\obj\Debug\net6.0\Classifieds-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\source\repos\Classifieds-service\Classifieds-service\obj\Debug\net6.0\Classifieds-API.AssemblyInfoInputs.cache
+C:\Users\Кирилл\source\repos\Classifieds-service\Classifieds-service\obj\Debug\net6.0\Classifieds-API.AssemblyInfo.cs
+C:\Users\Кирилл\source\repos\Classifieds-service\Classifieds-service\obj\Debug\net6.0\Classifieds-API.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\source\repos\Classifieds-service\Classifieds-service\obj\Debug\net6.0\Classifieds-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Кирилл\source\repos\Classifieds-service\Classifieds-service\obj\Debug\net6.0\Classifieds-API.MvcApplicationPartsAssemblyInfo.cache
